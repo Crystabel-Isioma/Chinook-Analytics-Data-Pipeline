@@ -1,4 +1,4 @@
-# Chinook SQL to Python Data Pipeline
+# Chinook Analytics Data Pipeline
 
 This project shows how the Chinook music store SQL database was brought into Python, merged, summarized, and visualized. The workflow is simple: import the Chinook database into SQL Server, load the tables into Python using PyKinosh, perform all analysis inside Python, and generate clean revenue dashboards.
 
